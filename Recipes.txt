@@ -7,6 +7,9 @@ chicken fry
 
 items-dal,sugar
 
+beans 
+tomatoes
+
 thank you
 
 final coppy
